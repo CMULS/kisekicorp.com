@@ -12,7 +12,7 @@
             position: fixed;
             top: 0;
             width: 190%;
-            height: 260px;
+            height: 160px;
             background-image: url(https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/Copilot_20250624_144211.png);
             background-position: center;
             display: flex;
@@ -74,7 +74,7 @@
                     <div class="dropdown">
                         <a href="#">Who We Are</a>
                         <a href="#">Our Mission</a>
-                        <a href="#">Leadership</a>
+                        <a href="#">Staff</a>
                     </div>
                 </div> 
                 <div class="nav-item">
