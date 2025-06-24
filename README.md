@@ -7,7 +7,7 @@
     
         body {
                 background-color: navy; 
-            }
+            } 
          #nav-bar {
             position: fixed;
             top: 0;
