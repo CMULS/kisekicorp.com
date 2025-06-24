@@ -1,16 +1,12 @@
 # kiseki.com
-<!DOCTYPE html>
+
 <html>
     <head>
     <title>
         Piseki Group
     </title>
     <style>
-         p {
-                color: white;
-                text-align: center;
-                font-size: 100px;
-            }
+         
         body {
                 background-color: black;
                 
@@ -99,6 +95,6 @@
         </nav>
     </header><br>
     <body>
-        <p>Who we are?</p><br> 
+     
     </body>
 </html>
