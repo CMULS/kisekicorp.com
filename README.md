@@ -13,7 +13,7 @@
             top: 0;
             width: 100%;
             height: 260px;
-            background-image: url(https://raw.githubusercontent.com/CMULS/Themes/refs/heads/main/K.png);
+            background-image: url(https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/Copilot_20250624_144211.png);
             background-position: center;
             display: flex;
             align-items: center;
