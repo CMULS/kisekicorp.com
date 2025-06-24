@@ -11,7 +11,7 @@
          #nav-bar {
             position: fixed;
             top: 0;
-            width: 100%;
+            width: 90%;
             height: 260px;
             background-image: url(https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/Copilot_20250624_144211.png);
             background-position: center;
