@@ -6,7 +6,7 @@
     <style>
     
         body {
-                background-image: url(https://raw.githubusercontent.com/CMULS/Themes/refs/heads/main/Copilot_20250624_142918.png);
+                background-image: url(https://raw.githubusercontent.com/CMULS/Themes/refs/heads/main/Copilot_20250624_142918.png); 
             }
          #nav-bar {
             position: fixed;
