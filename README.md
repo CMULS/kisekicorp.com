@@ -74,7 +74,7 @@
                     <div class="dropdown">
                         <a href="#">Who We Are</a>
                         <a href="#">Our Mission</a>
-                        <a href="#">Management & Staff</a>
+                        <a href="https://cmuls.github.io/kiseki.org/">Management & Staff</a>
                     </div>
                 </div> 
                 <div class="nav-item">
