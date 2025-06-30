@@ -23,7 +23,7 @@
 
          } 
             .navbar img.logo {
-            height: 40px;
+            height: 10px;
             margin-right: 20px;
         }
          .nav-menu {
