@@ -31,7 +31,7 @@
         } 
          .nav-menu {
             display: flex;
-            gap: 40px;
+            gap: 20px;
             margin-bottom: 20px;
         } 
         .nav-item {
@@ -105,6 +105,7 @@
                     </div>
                 </div>
             <div class="content">
+               <h1>Welcome to Kiseki Group</h1>
             </div>
         </nav>
     </header>
