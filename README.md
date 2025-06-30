@@ -6,8 +6,9 @@
     <style> 
     
         body {
-                background-image: url(https://raw.githubusercontent.com/CMULS/Themes/refs/heads/main/K.png); 
-            } 
+            margin: 0; 
+            
+         } 
          #nav-bar {
             position: fixed;
             top: 0;
@@ -59,6 +60,10 @@
         .nav-item:hover .dropdown {
             display: block;
         } 
+        .content {
+            padding-top: 70px; /* To avoid overlap with fixed navbar */
+            text-align: center;
+        } 
     </style>
     </head>
     
@@ -89,6 +94,8 @@
                     </div>
                     </div>
                 </div>
+            <div class="content">
+            </div>
         </nav>
     </header><br>
     <body>
