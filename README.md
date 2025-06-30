@@ -3,7 +3,7 @@
     <title>
           Kiseki Group
     </title>
-    <style>
+    <style> 
     
         body {
                 background-image: url(https://raw.githubusercontent.com/CMULS/Themes/refs/heads/main/K.png); 
