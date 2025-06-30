@@ -22,6 +22,10 @@
             z-index: 1000;
 
          } 
+            .navbar img.logo {
+            height: 40px;
+            margin-right: 20px;
+        }
          .nav-menu {
             display: flex;
             gap: 40px;
@@ -72,6 +76,7 @@
         <nav id="nav-bar">
             <div class="nav-menu">
                 <div class="nav-item">
+                <img class="logo" src="https://raw.githubusercontent.com/CMULS/Themes/refs/heads/main/K.png" alt="Kiseki Logo"/>
                     <a href="#" class="nav-link">Home</a>
                 </div>
                 <div class="nav-item">
