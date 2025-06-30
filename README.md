@@ -22,10 +22,13 @@
             z-index: 1000;
 
          } 
-            .navbar img.logo {
-            height: 10px;
-            margin-right: 20px;
-        }
+            .logo-container {
+            flex-shrink: 0;
+        } 
+       
+        .logo {
+            height: 60px;
+        } 
          .nav-menu {
             display: flex;
             gap: 40px;
@@ -74,9 +77,11 @@
     
     <header>
         <nav id="nav-bar">
+         <div class="logo-container">
+             <img class="logo" src="https://raw.githubusercontent.com/CMULS/Themes/refs/heads/main/K.png" alt="Piseki Logo" />
+         </div>
             <div class="nav-menu">
                 <div class="nav-item">
-                <img class="logo" src="https://raw.githubusercontent.com/CMULS/Themes/refs/heads/main/K.png" alt="Kiseki Logo"/>
                     <a href="#" class="nav-link">Home</a>
                 </div>
                 <div class="nav-item">
@@ -102,7 +107,7 @@
             <div class="content">
             </div>
         </nav>
-    </header><br>
+    </header>
     <body>
          
     </body>
