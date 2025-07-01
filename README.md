@@ -27,7 +27,7 @@
         } 
        
         .logo {
-            height: 60px;
+            height: 80px;
         } 
          .nav-menu {
             display: flex;
