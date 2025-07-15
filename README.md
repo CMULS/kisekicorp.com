@@ -71,6 +71,9 @@
             padding-top: 70px; /* To avoid overlap with fixed navbar */
             text-align: center;
         } 
+        h1 {
+          font-size: 100px;
+        }
     </style>
     </head>
     
