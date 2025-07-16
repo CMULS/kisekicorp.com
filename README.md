@@ -102,7 +102,7 @@
       letter-spacing: 1px;
       text-align: center;
     } 
-  .content {
+.content {
   padding-top: 130px;
   text-align: center;
 }
