@@ -102,6 +102,17 @@
       letter-spacing: 1px;
       text-align: center;
     } 
+  .content {
+  padding-top: 130px;
+  text-align: center;
+}
+
+@media (max-width: 600px) {
+  .content {
+    padding-top: 150px; /* Add more padding for small screens if needed */
+  }
+}
+
         
     </style>
     </head>
