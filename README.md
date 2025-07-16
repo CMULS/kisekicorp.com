@@ -145,6 +145,10 @@
                <img src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/WhatsApp%20Image%202025-07-16%20at%2011.46.16_3c4c1133.jpg" alt="Real Estate">
                <div class="service-title">REAL ESTATE</div>
             </div>
+            <div class="service">
+              <img src="" alt="Agriculture">
+              <div class="service-title">AGRICULTURE</div>
+            </div>
         </nav>
     </body> 
 </html>
