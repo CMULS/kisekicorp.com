@@ -70,10 +70,38 @@
         .nav-item:hover .dropdown {
             display: block;
         } 
-        .content {
-            padding-top: 70px; /* To avoid overlap with fixed navbar */
-            text-align: center;
-        } 
+        
+     .services-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+      gap: 40px;
+      max-width: 1000px;
+      margin: 0 auto 60px auto;
+      padding: 0 20px;
+    } 
+    .service {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    } 
+    .service img {
+      width: 150px;
+      height: 150px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 4px solid white;
+      transition: transform 0.3s;
+    } 
+    .service img:hover {
+      transform: scale(1.05);
+    } 
+     .service-title {
+      margin-top: 10px;
+      font-weight: bold;
+      font-size: 14px;
+      letter-spacing: 1px;
+      text-align: center;
+    } 
         
     </style>
     </head>
@@ -112,7 +140,10 @@
             <body>
             <div class="content">
                <h1>Welcome to Kiseki Group</h1>
-               
+           <div class="services-grid">
+             <div class="service">
+               <img src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/WhatsApp%20Image%202025-07-16%20at%2011.46.16_3c4c1133.jpg" alt="Real Estate">
+               <div class="service-title">REAL ESTATE</div>
             </div>
         </nav>
     </body> 
