@@ -9,6 +9,9 @@
             margin: 0; 
             
          } 
+        h1 { 
+          margin-bottom: 40px;
+          }
          #nav-bar {
             position: fixed;
             top: 0; 
@@ -71,9 +74,7 @@
             padding-top: 70px; /* To avoid overlap with fixed navbar */
             text-align: center;
         } 
-        h1 {
-          font-size: 100px;
-        }
+        
     </style>
     </head>
     
@@ -111,6 +112,7 @@
             <body>
             <div class="content">
                <h1>Welcome to Kiseki Group</h1>
+               
             </div>
         </nav>
     </body> 
