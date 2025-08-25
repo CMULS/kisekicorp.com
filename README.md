@@ -47,7 +47,7 @@
             padding: 10px 15px;
             display: inline-block;
             background-color: rgba(0, 0, 0, 0.5);
-            border-radius: 5px;
+            border-radius: 2.5px;
         } 
         .dropdown {
             display: none;
