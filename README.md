@@ -57,13 +57,13 @@
             top: 100%;
             left: 0;
             background-color: rgba(0, 0, 0, 0.8);
-            min-width: 200px;
-            border-radius: 10px;
+            min-width: 260px;
+            border-radius: 14px;
         } 
         .dropdown a {
             color: white;
             text-decoration: none;
-            padding: 10px 15px;
+            padding: 15px 25px;
             display: block;
         } 
         .dropdown a:hover {
