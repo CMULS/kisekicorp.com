@@ -48,8 +48,8 @@
             padding: 18px 28px;
             display: inline-block;
             background-color: rgba(0, 0, 0, 0.5);
-            border-radius: 12px;
-            min-width: 150px;
+            border-radius: 14px;
+            min-width: 200px;
         } 
         .dropdown {
             display: none;
