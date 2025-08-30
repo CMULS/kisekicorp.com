@@ -88,7 +88,7 @@
       align-items: center;
     } 
     .service img {
-      width: 300px;
+      width: 200px;
       height: 300px;
       border-radius: 50%;
       border: 4px solid white;
