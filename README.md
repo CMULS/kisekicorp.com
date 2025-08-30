@@ -64,7 +64,7 @@
             color: white;
             text-decoration: none;
             display: block;
-            font-size: 90px;
+            font-size: 60px;
             padding: 50px 45px;
         } 
         .dropdown a:hover {
