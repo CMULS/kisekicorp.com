@@ -86,7 +86,7 @@
     } 
     .service img {
       width: 100px;
-      height: 50px;
+      height: 100px;
       border-radius: 50%;
       border: 4px solid white;
       transition: transform 0.3s;
