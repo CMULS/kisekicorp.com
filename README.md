@@ -148,6 +148,8 @@
                 </div>
             </header>
             <body>
+            </nav>
+            
             <div class="content">
                <h1>Welcome to Kiseki Group</h1>
            <div class="services-grid">
@@ -163,7 +165,7 @@
               <img src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/WhatsApp%20Image%202025-07-16%20at%2012.06.28_8e81217a.jpg" alt="Hospitality">
               <div class="service-title">HOSPITALITY</div>
             </div>
-        </nav>
+        
     </body> 
 </html> 
 <script>
