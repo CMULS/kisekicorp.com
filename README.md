@@ -8,7 +8,7 @@
         body {
             margin: 0; 
             
-         } 
+         }
         h1 { 
           margin-bottom: 80px;
           font-size: 3.5rem; 
@@ -44,11 +44,12 @@
         .nav-link {
             color: white;
             text-decoration: none;
-            font-size: 18px;
-            padding: 10px 15px;
+            font-size: 22px;
+            padding: 18px 28px;
             display: inline-block;
             background-color: rgba(0, 0, 0, 0.5);
-            border-radius: 10px;
+            border-radius: 12px;
+            min-width: 150px;
         } 
         .dropdown {
             display: none;
