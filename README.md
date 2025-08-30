@@ -65,7 +65,7 @@
             text-decoration: none;
             display: block;
             font-size: 90px;
-            padding: 60px 55px;
+            padding: 50px 45px;
         } 
         .dropdown a:hover {
             background-color: #444;
@@ -89,7 +89,7 @@
     } 
     .service img {
       width: 170px;
-      height: 300px;
+      height: 270px;
       border-radius: 50%;
       border: 4px solid white;
       transition: transform 0.3s;
