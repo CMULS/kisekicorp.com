@@ -16,7 +16,7 @@
             position: fixed;
             top: 0; 
             width: 100%;
-            height: 90px;
+            height: 160px;
             background-image: url(https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/Copilot_20250624_144211.png);
             background-position: center;
             display: flex;
