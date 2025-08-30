@@ -168,6 +168,11 @@
               <img src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/WhatsApp%20Image%202025-07-16%20at%2012.06.28_8e81217a.jpg" alt="Hospitality">
               <div class="service-title">HOSPITALITY</div>
             </div>
+              <div class="service">
+               <img src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/WhatsApp%20Image%202025-07-16%20at%2012.14.20_80577dea.jpg" alt="Business Consultancy">
+               <div class="service-title">BUSINESS CONSULTANCY</div>
+               <div class="service">
+                 
             </section>
         
     </body> 
