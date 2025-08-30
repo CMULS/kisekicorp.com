@@ -11,13 +11,13 @@
          } 
         h1 { 
           margin-bottom: 80px;
-          font-size: 2.5rem; 
+          font-size: 3.5rem; 
           }
          #nav-bar {
             position: fixed;
             top: 0; 
             width: 100%;
-            height: 160px;
+            height: 190px;
             background-image: url(https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/Copilot_20250624_144211.png);
             background-position: center;
             display: flex;
@@ -48,7 +48,7 @@
             padding: 10px 15px;
             display: inline-block;
             background-color: rgba(0, 0, 0, 0.5);
-            border-radius: 5px;
+            border-radius: 10px;
         } 
         .dropdown {
             display: none;
@@ -56,8 +56,8 @@
             top: 100%;
             left: 0;
             background-color: rgba(0, 0, 0, 0.8);
-            min-width: 150px;
-            border-radius: 5px;
+            min-width: 200px;
+            border-radius: 10px;
         } 
         .dropdown a {
             color: white;
