@@ -10,7 +10,8 @@
             
          } 
         h1 { 
-          margin-bottom: 100px;
+          margin-bottom: 80px;
+          font-size: 2.5rem; 
           }
          #nav-bar {
             position: fixed;
