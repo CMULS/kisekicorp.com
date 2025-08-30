@@ -65,7 +65,7 @@
             text-decoration: none;
             display: block;
             font-size: 90px;
-            padding: 80px 75px;
+            padding: 60px 55px;
         } 
         .dropdown a:hover {
             background-color: #444;
